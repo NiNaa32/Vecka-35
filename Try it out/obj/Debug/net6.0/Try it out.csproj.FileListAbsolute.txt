@@ -1,0 +1,15 @@
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\bin\Debug\net6.0\Try it out.exe
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\bin\Debug\net6.0\Try it out.deps.json
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\bin\Debug\net6.0\Try it out.runtimeconfig.json
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\bin\Debug\net6.0\Try it out.dll
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\bin\Debug\net6.0\Try it out.pdb
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\Try it out.csproj.AssemblyReference.cache
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\Try it out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\Try it out.AssemblyInfoInputs.cache
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\Try it out.AssemblyInfo.cs
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\Try it out.csproj.CoreCompileInputs.cache
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\Try it out.dll
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\refint\Try it out.dll
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\Try it out.pdb
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\Try it out.genruntimeconfig.cache
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Try it out\obj\Debug\net6.0\ref\Try it out.dll

@@ -1,0 +1,15 @@
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\bin\Debug\net6.0\Exampel1.exe
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\bin\Debug\net6.0\Exampel1.deps.json
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\bin\Debug\net6.0\Exampel1.runtimeconfig.json
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\bin\Debug\net6.0\Exampel1.dll
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\bin\Debug\net6.0\Exampel1.pdb
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\Exampel1.csproj.AssemblyReference.cache
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\Exampel1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\Exampel1.AssemblyInfoInputs.cache
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\Exampel1.AssemblyInfo.cs
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\Exampel1.csproj.CoreCompileInputs.cache
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\Exampel1.dll
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\refint\Exampel1.dll
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\Exampel1.pdb
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\Exampel1.genruntimeconfig.cache
+C:\Users\nordl\OneDrive - Nordlo\WORK\C#\Predavanja\31-08-2022\Exampel1\obj\Debug\net6.0\ref\Exampel1.dll
